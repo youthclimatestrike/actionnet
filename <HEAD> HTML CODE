@@ -1,0 +1,424 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
+	<head>
+
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+
+
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"/>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		
+		
+		<!-- [START CUSTOM CSS - GENERATED FOR USERS] -->
+		<!-- This CSS was generated for you, feel free to add to or edit it. -->
+		<style type="text/css">
+			@font-face {
+  font-family: Futura Bold Oblique;
+  src: url(https://actionnetwork.org/user_files/user_files/000/037/245/original/Futura_Extra_Bold_Oblique.otf);
+}
+@font-face {
+  font-family: Futura Extra Bold;
+  src: url(https://actionnetwork.org/user_files/user_files/000/037/246/original/Futura_Extra_Bold.otf);
+} 
+@font-face {
+  font-family: Droid Sans Mono;
+  src: url(https://actionnetwork.org/user_files/user_files/000/037/697/original/DroidSansMono.ttf);
+}                                             
+@font-face {
+  font-family: Futura Pt;
+  src: url(https://actionnetwork.org/user_files/user_files/000/037/587/original/HelveticaNowDisplay-ExtraBold.ttf);
+}                     
+                       li, p, blockquote {
+				font-family:"Futura Pt",Arial,sans-serif;
+				color:#4E4E4E;
+				margin: 0;
+                                font-weight: 700;
+			}
+                        h1, h2, h3{
+                                font-family: Futura Extra Bold !important;
+                                color: #4e4e4e
+                                text-transform: uppercase !important;
+                        }
+			#can_embed_form #can_thank_you {
+    background-color: #f8da25 !important;
+    color: #fff;
+    padding: 20px;
+    margin: 0 0 20px;
+    box-sizing: border-box;
+    text-align: center;
+    text-transform: uppercase;
+}
+div#search_location_list {
+    font-family: Futura Pt;
+}
+#can_embed_form .action_status_running_total {
+    text-align: center;
+    color: #262626 !important;
+    font-weight: 100;
+    font-size: 16px;
+    margin-bottom: 10px;
+    font-family: Futura Pt;
+}
+textarea#message {
+    font-family: Helvetica Now Display !important;
+    text-transform: none;
+}
+span.international_link-wrap.js-international_link-wrap.mb10 {
+    font-family: Futura Pt;
+}
+label.floatlabel-label.floatlabel-label-active {
+display: none !important;
+}
+.gen_wrapper #can_embed_form input[type="submit"],
+			.can_embed-html #can_embed_form input[type="submit"],
+			.gen_wrapper #can_embed_form .button,
+			.can_embed-html #can_embed_form .button,
+			.gen_wrapper #donate_auto_modal input[type="submit"],
+			.can_embed-html #donate_auto_modal input[type="submit"],
+			.gen_wrapper #donate_auto_modal .button,
+			.can_embed-html #donate_auto_modal .button {
+color: #fff !important;
+
+ padding: 5px !important;
+ font-family: Futura Extra Bold !important;
+ background-color: #67c6b0 !important;
+border: 0px !important;
+border-color: #fff !important;
+box-shadow: 3px 3px rgba(0, 0, 0, 0.23) !important;
+                                -webkit-appearance: none 
+                                
+			}
+img.leaflet-marker-icon.leaflet-zoom-animated.leaflet-interactive{
+background: url(https://actionnetwork.org/user_files/user_files/000/037/632/original/Untitled-1.png)
+display: transparent !important;
+}
+#can_embed_form #can_thank_you #action_info .action_owner {
+    float: none;
+    position: relative;
+    margin: 0 0 20px;
+    border: none;
+    padding: 0;
+    display: none !important;
+}
+#can_embed_form .can_thank_you-block .share_button.share-twitter {
+    background-color: #00aced;
+    margin-right: 0;
+    font-family: Futura Extra Bold;
+}
+#can_embed_form .can_thank_you-block .share_button.share-facebook {
+    background-color: #335795;
+    font-family: Futura Extra Bold;
+}
+#can_embed_form #embed_toggle-open, #can_embed_form #embed_toggle-close {
+    width: auto;
+    display: block;
+    font-size: 12px;
+    padding: 5px;
+    background-color: rgba(0,0,0,.1);
+    line-height: 20px;
+    padding: 2px 5px;
+    cursor: pointer;
+    float: left;
+    margin-top: -10px;
+    font-family: Futura Pt;
+}
+label.hundredtool {
+    font-family: Futura Pt;
+}
+#can_embed_form #referral_code_select_wrap+.can_thank_you-block>label.graytext {
+    position: relative;
+    left: 9px;
+    top: 13px;
+    font-size: 11px;
+    padding: 0 3px;
+    z-index: 9999;
+    transition: all .1s linear;
+    width: auto;
+    text-transform: uppercase;
+    z-index: 99;
+    letter-spacing: .5px;
+    white-space: nowrap;
+    overflow: hidden;
+    max-width: calc(100% - 17px);
+    float: left;
+    font-family: Futura Extra Bold;
+}
+			#gen_header {
+				padding: 0;
+				background-color: #fff; 
+				text-align: center;
+			}
+			
+			#gen_header img {
+				width: 100%;
+				max-width: 228px;
+			}
+			
+			.gen_wrapper {
+				padding: 40px 20px;
+				width: 1160px;
+				max-width: 100%;
+				margin: auto;
+				box-sizing: border-box;
+			}
+			
+
+			#can_embed_form #action_welcome_message #action_welcome_message_inner {
+    padding: 20px;
+    text-align: center;
+    */e0e0: ;
+    font-family: Futura Pt;
+    color: #4e4e4e;
+    border: 0 !important;
+}
+
+div#action_info_inner {
+    display: none;
+}
+				.gen_wrapper #can_embed_form input[type="submit"]:hover,
+				.can_embed-html #can_embed_form input[type="submit"]:hover,
+				.gen_wrapper #can_embed_form .button:hover,
+				.can_embed-html #can_embed_form .button:hover,
+				.gen_wrapper #donate_auto_modal input[type="submit"]:hover,
+				.can_embed-html #donate_auto_modal input[type="submit"]:hover,
+				.gen_wrapper #donate_auto_modal .button:hover, 
+				.can_embed-html #donate_auto_modal .button:hover {
+ background-color: #262626 !important;
+box-shadow: 0px 0px 0px 2px rgba(0, 0, 0, 0) !important;
+  transition: 0.3s !important;  
+				}
+div#can_sidebar {
+box-shadow: 5px 5px rgba(0, 0, 0, 0.23);
+}
+@media only screen and (max-width: 600px) {
+  div#can_sidebar {
+    box-shadow: 0px 0px transparent !important;
+  }
+}
+.gen_wrapper {
+    padding: 25px 20px;
+    width: 100%;
+    max-width: 100%;
+    box-sizing: border-box;
+}			
+			.gen_wrapper #can_embed_form .action_status_running_total,
+			.can_embed-html #can_embed_form .action_status_running_total,
+			.gen_wrapper .gen_name,
+			.gen_wrapper a,
+			#can_fundraising_widget a,
+			.ticketed_event a {
+				color:#67b6c0;
+				text-decoration: none;
+			}
+			h4.first_line{
+color: #262626
+}
+			.gen_wrapper a:hover,
+			#can_fundraising_widget a:hover,
+			.ticketed_event a:hover {
+				color:#262626; 
+				text-decoration: none;
+			}
+a {
+color: #67c6b0
+}
+a:hover {
+color: #262626
+}
+#can_embed_form select.can_select, #can_embed_form span.can_select {
+    line-height: 44px;
+    height: 44px;
+    border: 1px solid #b0b0b0;
+    background: url(/images/select2x2.png) no-repeat right -42px top 10px;
+    background-size: 60px 40px;
+    background-color: #fff;
+    box-sizing: border-box;
+    border-radius: 0;
+    padding: 0 30px 0 10px;
+    zoom: 1;
+    white-space: nowrap;
+    display: block;
+    margin-bottom: 15px;
+    max-width: 100%!important;
+    width: 100%!important;
+    font-family: Futura Extra Bold;
+    color: #434343 !important;
+}
+#can_embed_form input[type=text], #can_embed_form input[type=password], #can_embed_form input[type=url], #can_embed_form input[type=email], #can_embed_form input[type=tel], #can_embed_form input[type=number] {
+ line-height: 44px;
+    border-bottom: 2px solid #b0b0b0 ;
+    border-top: 0px solid #b0b0b0 !important;
+    border-right: 0px solid #b0b0b0 !important;
+    border-left: 0px solid #b0b0b0 !important;
+    background-color: transparent !important;
+    box-sizing: border-box;
+    font-family: Futura Extra Bold;
+    text-transform: uppercase;
+    margin: 4 !important;
+    -webkit-appearance: none 
+   
+}
+#can_embed_form input, #can_embed_form textarea, #can_embed_form select {
+ line-height: 44px;
+    border-bottom: 2px solid #b0b0b0 !important;
+    border-top: 0px solid #b0b0b0 !important;
+    border-right: 0px solid #b0b0b0 !important;
+    border-left: 0px solid #b0b0b0 !important;
+    background-color: transparent !important;
+    box-sizing: border-box;
+    font-family: Futura Extra Bold;
+    text-transform: uppercase;
+    margin: 4 !important;
+    -webkit-appearance: none 
+   
+}
+                       textarea#form-comments{
+font-family: Futura Extra Bold !important;
+text-transform: uppercase;
+}
+label.floatlabel-label.floatlabel-label-active {
+    font-family: Futura Extra Bold;
+    text-transform: uppercase;
+    color: #67c6b0 !important;
+
+}
+label.radio {
+    font-family: Futura Extra Bold;
+    color: #4e4e4e;
+}
+label.control-label.check_radio_label {
+    font-family: Futura Extra Bold;
+}
+label.control-label {
+    font-family: Futura Extra Bold;
+}
+label.checkbox {
+    font-family: Futura Extra Bold;
+    color: #4e4e4e;
+}
+#can_embed_form select.can_select, #can_embed_form span.can_select {
+    line-height: 44px;
+    height: 44px;
+    border: 1px solid #b0b0b0;
+    background: url(/images/select2x2.png) no-repeat right -42px top 10px;
+    background-size: 60px 40px;
+    background-color: #fff;
+    box-sizing: border-box;
+    border-radius: 0;
+    padding: 0 30px 0 10px;
+    zoom: 1;
+    white-space: nowrap;
+    display: block;
+    margin-bottom: 15px;
+    max-width: 100%!important;
+    width: 100%!important;
+    font-family: Futura Extra Bold;
+}
+label.control-label {
+    color: 434343;
+}
+.gen_wrapper #can_embed_form .action_status_running_total, .can_embed-html #can_embed_form .action_status_running_total, .gen_wrapper .gen_name, .gen_wrapper a, #can_fundraising_widget a, .ticketed_event a {
+    color: #67b6c0;
+    text-decoration: none;
+    font-family: Futura pt;
+    font-weight: 700;
+}
+#can_embed_form .action_status_tracker .action_status_status_bar span.action_status_status_bar-grow {
+    display: block;
+    position: relative;
+    z-index: 1;
+    height: 100%;
+    width: 0%;
+    background-color: #29a4d5 !important;
+    overflow: visible!important;
+}
+#can_embed_form .action_status_tracker .action_status_status_bar span.action_status_status_bar-grow .grow-dot {
+    display: block;
+    background-color: #29a4d5 !important;
+    border-radius: 50%;
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    top: -4px;
+    right: -5px;
+}
+#can_embed_form .action_status_tracker .action_status_goal {
+    text-align: center;
+    color: #f5f5f5;
+    font-size: 10px;
+    line-height: 21px;
+    font-family: Futura Pt;
+}
+h4.action_target.js-action_target {
+    color: #262626 !important;
+}
+h4 {
+  font-family: Futura Bold Oblique;
+  color: #4e4e4e;
+  text-transform: uppercase;
+}
+#gen_header {
+background-color: #262626;
+box-shadow: 0px 5px 0px 0px rgba(0, 0, 0, 0.23);
+height: 150px !important;
+width: 100%
+}
+#gen_header img {
+width: 100px !important;
+ display: inline-block;
+  text-align: center;
+  vertical-align: middle;
+horizontal-align: center;
+}
+image-block-outer-wrapper layout-caption-below design-layout-inline combination-animation-none individual-animation-none individual-text-animation-none {
+ display: inline-block;
+  text-align: center;
+  vertical-align: middle;
+horizontal-align: center;
+}
+.center {
+padding-top: 20px;
+ display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+@media only screen and (max-width: 600px) {
+  .center {
+    width: 100%;
+  }
+}
+
+		</style>
+	</head>
+	<body class="gen_body">
+		<div id="gen_header">
+			<div class="gen_wrapper">
+				<!-- [THE IMAGE BELOW IS GENERATED FROM THE LOGO UPLOAD - [ORGANIZATION NAME] IS ALSO A FIELD] -->
+<a href="https://youthclimatestrikeus.org">				
+<img src="https://can2-prod.s3.amazonaws.com/page_wrappers/logos/000/010/467/original/Untitled-11.png" alt="US Youth Climate Strike" /> 
+</a>
+				
+				<!-- [IF NO IMAGE IS UPLOADED, PUT THE [ORGANIZATION NAME] IN H1 TAGS] -->
+				<h1 class="gen_name"></h1>
+			</div>
+		</div>
+		<div class="gen_wrapper">
+			
+		<!-- END TEMPLATE HEADER - START WIDGET -->
